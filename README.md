@@ -1,6 +1,6 @@
-# Lider e Cia Piscinas
+# Bella's Piscinas
 
-Site institucional da Lider e Cia Piscinas, desenvolvido com Next.js, TypeScript e Tailwind CSS.
+Site institucional da Bella's Piscinas Campo Mourão, desenvolvido com Next.js, TypeScript e Tailwind CSS.
 
 ```bash
 npm install

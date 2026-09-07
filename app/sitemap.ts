@@ -1,2 +1,2 @@
 import type { MetadataRoute } from 'next';
-export default function sitemap():MetadataRoute.Sitemap{return[{url:'https://lidereciapiscinas.com.br',lastModified:new Date(),changeFrequency:'monthly',priority:1}]}
+export default function sitemap():MetadataRoute.Sitemap{return[{url:'https://bellaspiscinascampomourao.com.br',lastModified:new Date(),changeFrequency:'monthly',priority:1}]}
